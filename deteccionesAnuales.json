@@ -1,0 +1,142 @@
+[
+    {
+        "cantidad": 4.0,
+        "severidad": "Critical",
+        "fecha": "2022-09"
+    },
+    {
+        "cantidad": 19.0,
+        "severidad": "High",
+        "fecha": "2022-09"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Informational",
+        "fecha": "2022-09"
+    },
+    {
+        "cantidad": 15563.0,
+        "severidad": "Low",
+        "fecha": "2022-09"
+    },
+    {
+        "cantidad": 15.0,
+        "severidad": "Medium",
+        "fecha": "2022-09"
+    },
+    {
+        "cantidad": 1.0,
+        "severidad": "Critical",
+        "fecha": "2022-10"
+    },
+    {
+        "cantidad": 20.0,
+        "severidad": "High",
+        "fecha": "2022-10"
+    },
+    {
+        "cantidad": 1.0,
+        "severidad": "Informational",
+        "fecha": "2022-10"
+    },
+    {
+        "cantidad": 15550.0,
+        "severidad": "Low",
+        "fecha": "2022-10"
+    },
+    {
+        "cantidad": 32.0,
+        "severidad": "Medium",
+        "fecha": "2022-10"
+    },
+    {
+        "cantidad": 1.0,
+        "severidad": "Critical",
+        "fecha": "2022-11"
+    },
+    {
+        "cantidad": 12.0,
+        "severidad": "High",
+        "fecha": "2022-11"
+    },
+    {
+        "cantidad": 2.0,
+        "severidad": "Informational",
+        "fecha": "2022-11"
+    },
+    {
+        "cantidad": 9313.0,
+        "severidad": "Low",
+        "fecha": "2022-11"
+    },
+    {
+        "cantidad": 8.0,
+        "severidad": "Medium",
+        "fecha": "2022-11"
+    },
+    {
+        "cantidad": 0.0,
+        "severidad": "Critical",
+        "fecha": "2022-12"
+    },
+    {
+        "cantidad": 2.0,
+        "severidad": "High",
+        "fecha": "2022-12"
+    },
+    {
+        "cantidad": 3.0,
+        "severidad": "Informational",
+        "fecha": "2022-12"
+    },
+    {
+        "cantidad": 8709.0,
+        "severidad": "Low",
+        "fecha": "2022-12"
+    },
+    {
+        "cantidad": 10.0,
+        "severidad": "Medium",
+        "fecha": "2022-12"
+    },
+    {
+        "cantidad": 1.0,
+        "severidad": "Critical",
+        "fecha": "2023-01"
+    },
+    {
+        "cantidad": 38.0,
+        "severidad": "High",
+        "fecha": "2023-01"
+    },
+    {
+        "cantidad": 4.0,
+        "severidad": "Informational",
+        "fecha": "2023-01"
+    },
+    {
+        "cantidad": 11039.0,
+        "severidad": "Low",
+        "fecha": "2023-01"
+    },
+    {
+        "cantidad": 6.0,
+        "severidad": "Medium",
+        "fecha": "2023-01"
+    },
+    {
+        "cantidad": 7.0,
+        "severidad": "High",
+        "fecha": "2023-02"
+    },
+    {
+        "cantidad": 592.0,
+        "severidad": "Low",
+        "fecha": "2023-02"
+    },
+    {
+        "cantidad": 1.0,
+        "severidad": "Medium",
+        "fecha": "2023-02"
+    }
+]
