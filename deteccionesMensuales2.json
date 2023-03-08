@@ -1,0 +1,142 @@
+[
+    {
+        "fecha": "2023-02-28",
+        "severidad": "High",
+        "cantidad": 7
+    },
+    {
+        "fecha": "2023-02-28",
+        "severidad": "Medium",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-28",
+        "severidad": "Low",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-27",
+        "severidad": "Medium",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2023-02-26",
+        "severidad": "Low",
+        "cantidad": 3
+    },
+    {
+        "fecha": "2023-02-24",
+        "severidad": "Low",
+        "cantidad": 3
+    },
+    {
+        "fecha": "2023-02-23",
+        "severidad": "Medium",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-23",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-22",
+        "severidad": "Low",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-22",
+        "severidad": "Medium",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-21",
+        "severidad": "Low",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-16",
+        "severidad": "Medium",
+        "cantidad": 8
+    },
+    {
+        "fecha": "2023-02-15",
+        "severidad": "Low",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2023-02-15",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-14",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-14",
+        "severidad": "Low",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-12",
+        "severidad": "High",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-09",
+        "severidad": "High",
+        "cantidad": 6
+    },
+    {
+        "fecha": "2023-02-08",
+        "severidad": "Low",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-07",
+        "severidad": "Low",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-06",
+        "severidad": "Medium",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-06",
+        "severidad": "High",
+        "cantidad": 6
+    },
+    {
+        "fecha": "2023-02-03",
+        "severidad": "Low",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2023-02-02",
+        "severidad": "Low",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-02",
+        "severidad": "Medium",
+        "cantidad": 1
+    },
+    {
+        "fecha": "2023-02-01",
+        "severidad": "Low",
+        "cantidad": 2
+    },
+    {
+        "fecha": "2023-02-01",
+        "severidad": "High",
+        "cantidad": 4
+    },
+    {
+        "fecha": "2023-02-01",
+        "severidad": "Medium",
+        "cantidad": 1
+    }
+]
